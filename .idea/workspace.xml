@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="335c8aae-f309-474a-b1c1-954b87e394cc" name="Default Changelist" comment="1111">
+      <changelist_data name="LaV" email="" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DIfilter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ceshi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img0clip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img1clip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新建文本文档.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="LaV" />
+        <option value="lavwaxe" />
+        <option value="136369851@qq.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GiteePullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://gitee.com/lavwaxe/DIfilter.git" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/orb.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ceshi2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/new4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/file_save.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ceshi.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/new2.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1dOOkfVMWhpLimxLbvwPuCAr4k1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LaV" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.new4">
+    <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIfilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ceshi2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIfilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceshi2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_save" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIfilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_save.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIfilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIfilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.new4" />
+        <item itemvalue="Python.new2" />
+        <item itemvalue="Python.ceshi" />
+        <item itemvalue="Python.file_save" />
+        <item itemvalue="Python.ceshi2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="335c8aae-f309-474a-b1c1-954b87e394cc" name="Default Changelist" comment="" />
+      <created>1592292817580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592292817580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594633106375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594633106375" />
+    <state x="1185" y="247" key="FileChooserDialogImpl" timestamp="1595656207868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1185" y="247" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595656207868" />
+    <state x="810" y="420" key="Gitee.ShareDialog" timestamp="1595655788570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="420" key="Gitee.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595655788570" />
+    <state x="806" y="224" key="Gitee.UntrackedFilesDialog" timestamp="1595655804997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="224" key="Gitee.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595655804997" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1594697947750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594697947750" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1594697947750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594697947750" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1594697947750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594697947750" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1594697947750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594697947750" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1593320695977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593320695977" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1593320695977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593320695977" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1593320695977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593320695977" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1593320695977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593320695977" />
+    <state x="796" y="240" key="RollbackChangesDialog" timestamp="1595656032794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595656032794" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1595657076072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595657076072" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595655869046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595655869046" />
+    <state x="758" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595656178193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595656178193" />
+    <state x="717" y="308" key="git4idea.ui.GitUnstashDialog" timestamp="1595656085346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="308" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595656085346" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594351293823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594351293823" />
+  </component>
+</project>
